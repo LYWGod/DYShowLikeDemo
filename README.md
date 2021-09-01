@@ -2,10 +2,10 @@
 ![likeDemo](https://user-images.githubusercontent.com/19968354/131624851-1a5ba0ea-70c3-4356-ade4-f19861894124.gif)
 
 
-##使用方法
+## 使用方法
 ![B06D9142F84D0EAA26857C28320D463F](https://user-images.githubusercontent.com/19968354/131625849-0c73d7e4-85b7-4e33-b094-a4e790fcc5ea.jpg)
 
-###第一种方案
+### 第一种方案
 - 1.将LikeView.h 和LikeView.m文件加入到项目里面
 
 - 2.导入头文件#import "LikeView.h"
@@ -28,8 +28,7 @@ self.likeView.frame = CGRectMake(100, 200, 50, 45);
 
 - 6.如果需要有点赞数量，那么就需要添加一个label在likeView下面记录数量即可
 
-##使用方法
-###第二种方案
+### 第二种方案
 - 1.把FavoriteView.h 和 FavoriteView.m文件加入到项目里面
 
 - 2.导入头文件#import "FavoriteView.h"
